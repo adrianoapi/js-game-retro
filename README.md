@@ -1,6 +1,6 @@
 # js-game-retro
 
-## Introdu√ß0£o
+## IntroduÁ„o
 
 Script para estudar a l√≥gia de games web em JavaScript Orientado √† Objeto
 
