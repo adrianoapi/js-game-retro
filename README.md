@@ -4,4 +4,5 @@
 
 Script para estudar a lógia de games web em JavaScript Orientado à  Objeto
 
+Designer:
 Design criado por Italo Mariano
